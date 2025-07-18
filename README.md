@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyash Agrawal  
 
-<!--
-**shreyash1322/shreyash1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full‑Stack Developer | Web3 Enthusiast | Problem Solver**  
+🚀 Recent Computer Science graduate passionate about building scalable apps, learning new tech, and solving real‑world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 **B.Tech in Computer Science** – Baderia Global Engineering College (2021–2025)
+- 💼 Former **Frontend Developer Intern** at [Unified Mentor](https://www.linkedin.com/company/unified-mentor/)
+- 🌱 Currently exploring **Blockchain & AI-powered apps**
+- ✨ Fun fact: *I’m a state-level chess player ♟️*
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🐦 [Twitter Clone](https://github.com/shreyash1322)
+- MERN stack social media app with JWT authentication, tweeting, liking & retweeting.
+- Responsive UI with Tailwind CSS, deployed on **AWS** with CI/CD.
+
+### 📊 [AI‑Powered Social Media Dashboard](https://github.com/shreyash1322)
+- Built with MERN stack to analyze trends, sentiment & engagement in real‑time.
+- Integrated ML models for NLP & computer vision, reducing data processing time by 40%.
+
+### 🌐 [Web3 Crowdfunding Platform](https://github.com/shreyash1322)
+- Ethereum & Solidity based decentralized crowdfunding app.
+- Integrated MetaMask, token-based transactions & IPFS for secure data storage.
+
+---
+
+## 📈 GitHub Stats
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash1322&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash1322&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Achievements & Skills
+- ✅ Strong in **DSA** & **OOP** concepts.
+- ✅ Experience with **Agile development** & **code reviews**.
+- ✅ Passionate about **open source contributions** and learning cutting‑edge tech.
+
+---
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash05ag)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashagrawal69@gmail.com)
+
+⭐️ **If you like my work, don’t forget to star my repositories!**
+
